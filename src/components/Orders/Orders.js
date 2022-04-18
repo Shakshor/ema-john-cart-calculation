@@ -37,7 +37,7 @@ const Orders = () => {
                     </Link> */}
 
                     {/*---- using event handler(useNavigate) -----*/}
-                    <button onClick={() => navigate('/inventory')}>Proceed Checkout</button>
+                    <button onClick={() => navigate('/shipment')}>Proceed Shipping</button>
 
                 </Cart>
             </div>
